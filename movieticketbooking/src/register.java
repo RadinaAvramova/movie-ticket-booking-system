@@ -11,10 +11,6 @@ import javax.swing.JOptionPane;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author PRATAP KUMAR
- */
 public class register extends javax.swing.JFrame {
 Connection conn=null;
     /**
