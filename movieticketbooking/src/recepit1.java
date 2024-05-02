@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author PRATAP KUMAR
- */
+
 public class recepit1 extends javax.swing.JFrame {
 
     /**
