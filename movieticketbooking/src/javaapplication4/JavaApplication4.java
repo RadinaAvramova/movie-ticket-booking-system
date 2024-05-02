@@ -9,10 +9,7 @@ import java.sql.DriverManager;
  */
   
 
-/**
- *
- * @author PRATAP KUMAR
- */
+
 public class JavaApplication4 {
     Connection conn=null;
 public static Connection ConnecrDb(){
