@@ -7,10 +7,7 @@ import javax.swing.ButtonGroup;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author PRATAP KUMAR
- */
+
 public class cardselection extends javax.swing.JFrame {
 
     /**
