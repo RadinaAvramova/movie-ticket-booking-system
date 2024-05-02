@@ -7,10 +7,7 @@ import java.sql.DriverManager;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author PRATAP KUMAR
- */
+
 public class movie extends javax.swing.JFrame {
 
     /**
